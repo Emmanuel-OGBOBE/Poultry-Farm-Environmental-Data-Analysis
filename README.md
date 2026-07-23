@@ -66,7 +66,7 @@ The analysis identified several important patterns:
 - Differences between farm zones demonstrated the importance of
   location-specific environmental monitoring.
 
-**  Visualisations**
+**Visualisations**
 
 The project uses several visualisations to communicate analytical findings,
 including:
