@@ -27,15 +27,6 @@ NO2 and TVOC.
 - Assess potential environmental risks.
 - Prepare the processed data for Power BI dashboard development.
 
-**  Dataset**
-The analysis uses environmental monitoring data collected from three
-sensor nodes:
-
-|Sensor Node - Location 
- Node 1      - Baby Chick Section 
- Node 2      - Main East Zone 
- Node 3      -Main West Zone 
-
 Environmental variables analysed include:
 - Temperature
 - Humidity
@@ -48,8 +39,8 @@ Environmental variables analysed include:
 - Noise
 - Light
 
-** Data Cleaning and Preprocessing
-**
+**Data Cleaning and Preprocessing**
+
 The preprocessing process included:
 
 - Checking for missing values.
