@@ -53,7 +53,7 @@ The preprocessing process included:
 - Creating hour, day and month variables for time-based analysis.
 - Assigning sensor readings to their corresponding farm zones.
 
- ** Key Insights**
+  **Key Insights**
 
 The analysis identified several important patterns:
 
@@ -88,7 +88,7 @@ including:
 - Visual Studio Code
 - Power BI
 
- ** Recommendations**
+ **Recommendations**
 
 Based on the analysis:
 
@@ -101,7 +101,7 @@ Based on the analysis:
 - Automated monitoring could help identify unusual environmental conditions
   earlier.
 
-  ** Conclusion**
+** Conclusion**
   
 This project demonstrates how environmental sensor data can be transformed
 into meaningful information using Python.
