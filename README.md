@@ -31,10 +31,10 @@ NO2 and TVOC.
 The analysis uses environmental monitoring data collected from three
 sensor nodes:
 
-| Sensor Node | Location |
-| Node 1      | Baby Chick Section |
-| Node 2      | Main East Zone |
-| Node 3      | Main West Zone |
+|Sensor Node - Location 
+ Node 1      - Baby Chick Section 
+ Node 2      - Main East Zone 
+ Node 3      -Main West Zone 
 
 Environmental variables analysed include:
 - Temperature
