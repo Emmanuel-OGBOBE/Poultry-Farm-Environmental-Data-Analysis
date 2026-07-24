@@ -101,7 +101,7 @@ Based on the analysis:
 - Automated monitoring could help identify unusual environmental conditions
   earlier.
 
-** Conclusion**
+ Conclusion
   
 This project demonstrates how environmental sensor data can be transformed
 into meaningful information using Python.
